@@ -1,0 +1,32 @@
+src/app/code/community/Inchoo/Facebook  app/code/community/Inchoo/Facebook 
+
+src/app/design/frontend/default/default/layout/inchoo/facebook.xml  app/design/frontend/default/default/layout/inchoo/facebook.xml
+
+src/app/design/frontend/default/default/template/inchoo/facebook  app/design/frontend/default/default/template/inchoo/facebook
+
+src/app/etc/modules/Inchoo_Facebook.xml app/etc/modules/Inchoo_Facebook.xml
+
+src/app/locale/bg_BG/*.csv app/locale/bg_BG/
+src/app/locale/ca_ES/*.csv app/locale/ca_ES/
+src/app/locale/cs_CZ/*.csv app/locale/cs_CZ/
+src/app/locale/de_DE/*.csv app/locale/de_DE/
+src/app/locale/da_DK/*.csv app/locale/da_DK/
+src/app/locale/es_ES/*.csv app/locale/es_ES/
+src/app/locale/et_EE/*.csv app/locale/et_EE/
+src/app/locale/hu_HU/*.csv app/locale/hu_HU/
+src/app/locale/it_IT/*.csv app/locale/it_IT/
+src/app/locale/ko_KR/*.csv app/locale/ko_KR/
+src/app/locale/lt_LT/*.csv app/locale/lt_LT/
+src/app/locale/nb_NO/*.csv app/locale/nb_NO/
+src/app/locale/nl_NL/*.csv app/locale/nl_NL/
+src/app/locale/pl_PL/*.csv app/locale/pl_PL/
+src/app/locale/pt_BR/*.csv app/locale/pt_BR/
+src/app/locale/pt_PT/*.csv app/locale/pt_PT/
+src/app/locale/ro_RO/*.csv app/locale/ro_RO/
+src/app/locale/ru_RU/*.csv app/locale/ru_RU/
+src/app/locale/sv_SE/*.csv app/locale/sv_SE/
+src/app/locale/tr_TR/*.csv app/locale/tr_TR/
+src/app/locale/zh_CN/*.csv app/locale/zh_CN/
+src/app/locale/zh_TW/*.csv app/locale/zh_TW/
+
+
